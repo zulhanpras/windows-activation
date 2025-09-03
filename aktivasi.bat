@@ -1,6 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 title Aktivasi Windows via KMS (Auto Key Trial)
+color 0A
 cls
 
 echo =========================================
@@ -48,3 +49,4 @@ cscript //nologo %windir%\system32\slmgr.vbs /xpr
 echo.
 echo Aktivasi selesai. Tekan tombol apapun untuk keluar.
 pause >nul
+
