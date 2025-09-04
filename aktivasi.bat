@@ -1,11 +1,11 @@
 @echo off
 setlocal enabledelayedexpansion
-title Aktivasi Windows via KMS (Auto Key Trial)
+title Aktivasi Windows (Auto Key Trial)
 color 0A
 cls
 
 echo =========================================
-echo   Aktivasi Windows KMS Client (Auto Key)
+echo   Aktivasi Windows (Auto Key)
 echo =========================================
 echo.
 
