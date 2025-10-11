@@ -10,8 +10,8 @@ Script ini otomatis mencoba beberapa key hingga menemukan yang cocok, lalu mengh
 
 ## 🔹 Cara Pakai
 
-### 1️⃣ Jalankan via CMD (sekali baris, tanpa download manual)
-Copy–paste perintah ini di **CMD (Run as Administrator)**:
+### 1️⃣ Jalankan via CMD
+Copy–paste di **CMD (Run as Administrator)**:
 
 ```cmd
 curl -L https://raw.githubusercontent.com/zulhanpras/windows-activation/main/aktivasi.bat -o %temp%\aktivasi.bat && powershell -Command "Start-Process cmd -ArgumentList '/c %temp%\aktivasi.bat' -Verb RunAs"
